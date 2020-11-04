@@ -1,0 +1,25 @@
+table, th, td {
+  border: 1px solid black;
+}
+th{
+	text-align: left;
+	text-shadow: 1 2 2px;
+}
+.Yellow{
+	background-color: yellow;
+}
+.Red{
+	background-color: red;
+}
+.Purple{
+	background-color: purple;
+}
+.Blue{
+	background-color: blue;
+}
+.Orange{
+	background-color: orange;
+}
+.Green{
+	background-color: green;
+}
